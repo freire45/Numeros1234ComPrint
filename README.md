@@ -2,7 +2,7 @@
 
 **Crie Um Programa que Exiba os valores 12 34 com quatro instruções print**
 
-![Números 12 34 com Print](numeros1234comprint.jpeg) <br><br>
+![Números 12 34 com Print](numeros1234comprint.jpg) <br><br>
 
 Autor: Erick Leite Freire<br>
 Criado em: 10-12-2023<br>
